@@ -1,0 +1,11 @@
+.githooks
+.eslintrc
+.idea
+examples
+.nyc_output/
+coverage
+test
+.vscode
+lib
+index.ts
+tsconfig.json
